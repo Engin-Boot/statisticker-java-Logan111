@@ -1,4 +1,3 @@
-
 package statisticker;
 
 import java.util.Collections;
